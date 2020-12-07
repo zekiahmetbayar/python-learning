@@ -196,10 +196,3 @@ while True:
         if(play_again == str('N')):
             print("Görüşmek üzere ! ")
             break
-
-
-
-
-
-
-
